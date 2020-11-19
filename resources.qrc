@@ -1,0 +1,95 @@
+<RCC>
+    <qresource prefix="/hero">
+        <file>Hero/adventurer-die-00.png</file>
+        <file>Hero/adventurer-die-01.png</file>
+        <file>Hero/adventurer-die-02.png</file>
+        <file>Hero/adventurer-die-03.png</file>
+        <file>Hero/adventurer-die-04.png</file>
+        <file>Hero/adventurer-die-05.png</file>
+        <file>Hero/adventurer-die-06.png</file>
+        <file>Hero/adventurer-fall-00.png</file>
+        <file>Hero/adventurer-fall-01.png</file>
+        <file>Hero/adventurer-run-00.png</file>
+        <file>Hero/adventurer-run-01.png</file>
+        <file>Hero/adventurer-run-02.png</file>
+        <file>Hero/adventurer-run-03.png</file>
+        <file>Hero/adventurer-run-04.png</file>
+        <file>Hero/adventurer-run-05.png</file>
+        <file>Hero/adventurer-jump-00.png</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>Background/Layer_0000_9.png</file>
+        <file>Background/Layer_0001_8.png</file>
+        <file>Background/Layer_0002_7.png</file>
+        <file>Background/Layer_0003_6.png</file>
+        <file>Background/Layer_0004_Lights.png</file>
+        <file>Background/Layer_0005_5.png</file>
+        <file>Background/Layer_0006_4.png</file>
+        <file>Background/Layer_0007_Lights.png</file>
+        <file>Background/Layer_0008_3.png</file>
+        <file>Background/Layer_0009_2.png</file>
+        <file>Background/Layer_0010_1.png</file>
+    </qresource>
+    <qresource prefix="/enemy">
+        <file>Enemy/Slime/slime-attack-00.png</file>
+        <file>Enemy/Slime/slime-attack-01.png</file>
+        <file>Enemy/Slime/slime-attack-02.png</file>
+        <file>Enemy/Slime/slime-attack-03.png</file>
+        <file>Enemy/Slime/slime-attack-04.png</file>
+        <file>Enemy/Slime/slime-move-00.png</file>
+        <file>Enemy/Slime/slime-move-01.png</file>
+        <file>Enemy/Slime/slime-move-02.png</file>
+        <file>Enemy/Slime/slime-move-03.png</file>
+        <file>Enemy/Oculothorax/oculothorax-move-00.png</file>
+        <file>Enemy/Oculothorax/oculothorax-move-01.png</file>
+        <file>Enemy/Oculothorax/oculothorax-move-02.png</file>
+        <file>Enemy/Oculothorax/oculothorax-move-03.png</file>
+        <file>Enemy/Oculothorax/oculothorax-attack-00.png</file>
+        <file>Enemy/Oculothorax/oculothorax-attack-01.png</file>
+        <file>Enemy/Oculothorax/oculothorax-attack-02.png</file>
+        <file>Enemy/Oculothorax/oculothorax-attack-03.png</file>
+        <file>Enemy/Oculothorax/oculothorax-attack-04.png</file>
+        <file>Enemy/Oculothorax/oculothorax-attack-05.png</file>
+        <file>Enemy/Oculothorax/oculothorax-attack-06.png</file>
+        <file>Enemy/Oculothorax/oculothorax-attack-07.png</file>
+        <file>Enemy/Oculothorax/oculothorax-attack-08.png</file>
+        <file>Enemy/Ogre/ogre-move-00.png</file>
+        <file>Enemy/Ogre/ogre-move-01.png</file>
+        <file>Enemy/Ogre/ogre-move-02.png</file>
+        <file>Enemy/Ogre/ogre-move-03.png</file>
+        <file>Enemy/Ogre/ogre-move-04.png</file>
+        <file>Enemy/Ogre/ogre-move-05.png</file>
+        <file>Enemy/Ogre/ogre-attack-00.png</file>
+        <file>Enemy/Ogre/ogre-attack-01.png</file>
+        <file>Enemy/Ogre/ogre-attack-02.png</file>
+        <file>Enemy/Ogre/ogre-attack-03.png</file>
+        <file>Enemy/Ogre/ogre-attack-04.png</file>
+        <file>Enemy/Ogre/ogre-attack-05.png</file>
+        <file>Enemy/Ogre/ogre-shockwave-00.png</file>
+        <file>Enemy/Ogre/ogre-shockwave-01.png</file>
+        <file>Enemy/Ogre/ogre-shockwave-02.png</file>
+        <file>Enemy/Ogre/ogre-shockwave-03.png</file>
+        <file>Enemy/Ogre/ogre-shockwave-04.png</file>
+        <file>Enemy/Ogre/ogre-shockwave-05.png</file>
+        <file>Enemy/Ogre/ogre-shockwave-06.png</file>
+        <file>Enemy/Ogre/ogre-shockwave-07.png</file>
+        <file>Enemy/Ogre/ogre-shockwave-08.png</file>
+        <file>Enemy/Ogre/ogre-shockwave-09.png</file>
+        <file>Enemy/Ogre/ogre-attack-06.png</file>
+    </qresource>
+    <qresource prefix="/ranking">
+        <file>ranking.txt</file>
+    </qresource>
+    <qresource prefix="/gui">
+        <file>GUI/GUI-button-exit.png</file>
+        <file>GUI/GUI-button-open.png</file>
+        <file>GUI/GUI-button-options.png</file>
+        <file>GUI/GUI-button-score.png</file>
+        <file>GUI/GUI-button-start.png</file>
+        <file>GUI/GUI-button-porta.png</file>
+        <file>GUI/GUI-menu.png</file>
+    </qresource>
+    <qresource prefix="/font">
+        <file>Font/old-english.ttf</file>
+    </qresource>
+</RCC>
